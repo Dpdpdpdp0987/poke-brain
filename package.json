@@ -1,0 +1,37 @@
+{
+  "name": "poke-brain",
+  "version": "0.1.0",
+  "description": "An automated assistant brain extension with ADHD-friendly tools, task tracking and knowledge management",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "eslint-config-next": "^14.0.4"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "keywords": [
+    "adhd",
+    "task-management",
+    "productivity",
+    "brain",
+    "reminders",
+    "neurodivergent",
+    "nextjs"
+  ],
+  "author": "Daniela Mümken",
+  "license": "MIT"
+}
