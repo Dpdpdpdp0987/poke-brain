@@ -7,7 +7,7 @@ export default function Home() {
       <Head>
         <title>Poke Brain 🌴</title>
         <meta name="description" content="ADHD-friendly task management system" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/favicon.svg" />
       </Head>
 
       <main className={styles.main}>
